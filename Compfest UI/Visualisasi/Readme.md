@@ -1,4 +1,4 @@
-Visualisasi dilakukan menggunakan _tools_ **Tableau**. 
+Visualisasi dilakukan menggunakan _tools_ [**Tableau**](Compfest UI/Visualisasi/visual.twb). 
 
 Visualisasi yang dilaukan yaitu memetakan wilayah DKI Jakarta selama 3 tahun (2018 - 2020) dalam setiap bulan daerah mana yang terjadi banjir
 
