@@ -1,5 +1,8 @@
 # Data dan Metadata
-Data yang digunakan adalah data "Water Feasibility"
+Data yang digunakan adalah data "Water Feasibility" untuk memprediksi dimensi id apakah memiliki fasilitas air yang _layak_ atau _tidak layak_
+
+Kode 1 : Memiliki fasilitas air layak 
+Kode 0 : Memiliki fasilitas air yang tidak layak 
 
 Data dibagi menjadi 4 : 
 * [train.csv]()
