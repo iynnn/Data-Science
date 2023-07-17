@@ -1,2 +1,3 @@
 Kegiatan ini merupakan kegiatan Data Science yang diselenggarakan oleh Compfest UI. Kami mengangkat judul "**Analisis Pemodelan Machine Learning Bencana Banjir di DKI Jakarta dengan Pemanfaatan Citra Satelit (Studi Kasus : Tahun 2018 - 2020)**"
+
 Kegiatan Compfest UI pada bidang Data Science ini dikerjakan bersama Thomson dan Septian Tegar (Gerry). Pada kegiatan ini, kami menggunakan data pada citra satelit untuk memetakan serta memodelkan bencana banjir yang ada di Jakarta pada rentang waktu 2018 - 2020. Model yang digunakan adalah SVM, KNN, Random Forest, dan XGBoost. 
