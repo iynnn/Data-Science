@@ -4,5 +4,5 @@ Kegiatan ini merupakan kegiatan Data Science yang diselenggarakan oleh [Compfest
 
 
 
-Kegiatan Compfest UI pada bidang Data Science ini dikerjakan bersama _Thomson_ dan _Septian Tegar (Gerry)_. Pada kegiatan ini kami menggunakan model _SVM_, _KNN_, _Random Forest_, dan _XGBoost_. 
+Kegiatan Compfest UI pada bidang Data Science ini dikerjakan bersama _Thomson_ dan _Septian Tegar (Gerry)_ dengan nama tim "_Carl's Adam_". Pada kegiatan ini kami menggunakan model _SVM_, _KNN_, _Random Forest_, dan _XGBoost_. 
 
