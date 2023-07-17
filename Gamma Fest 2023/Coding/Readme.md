@@ -15,4 +15,13 @@ Pemodelan yang dilakukan menggunakan beberapa model, di antaranya :
 * XGBoost
 * Neural Network 
 
-
+Secara umum, langkah dalam untuk melakukan pemodelan dan prediksi sebagai berikut : 
+1. Input Data
+2. Cek Keadaan dan Gambaran Data
+3. Cek Konsistensi Data
+4. Imputasi Nilai Missing
+5. Penanganan Dataset yang Imbalance
+6. Pemodelan
+7. Tuning Parameter
+8. Evaluasi Model
+9. Prediksi
