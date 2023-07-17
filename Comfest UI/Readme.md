@@ -1,4 +1,4 @@
-Kegiatan ini merupakan kegiatan Data Science yang diselenggarakan oleh Compfest UI. Kami mengangkat judul 
+Kegiatan ini merupakan kegiatan Data Science yang diselenggarakan oleh (Compfest UI)[https://www.compfest.id/]. Kami mengangkat judul 
 
 "**Analisis Pemodelan Machine Learning Bencana Banjir di DKI Jakarta dengan Pemanfaatan Citra Satelit (Studi Kasus : Tahun 2018 - 2020)**"
 
